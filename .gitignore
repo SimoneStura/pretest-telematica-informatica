@@ -1,0 +1,3 @@
+# Project exclude paths
+/lib-model-testtelematica/target/
+/testtelematica/target/
