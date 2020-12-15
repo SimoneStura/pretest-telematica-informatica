@@ -1,3 +1,5 @@
 # Project exclude paths
 /lib-model-testtelematica/target/
 /testtelematica/target/
+/.idea/
+/test-telematica-informatica.iml
